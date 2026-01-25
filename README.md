@@ -56,6 +56,50 @@ Latest Version: Python 3.12.1 (as of now) <br>
 
 
 
+###### basics
+# 🎗 BASICS
+
+###### header files
+# 🎗 HEADER FILES
+
+###### data handling
+# 🎗 DATA HANDLING
+
+###### flow of control
+# 🎗 FLOW OF CONTROL
+
+###### functions
+# 🎗 FUNCTION
+
+###### pointers
+# 🎗 POINTERS
+
+###### dynamic memory allocation
+# 🎗 DYNAMIC MEMORY ALLOCATIONS 
+
+###### structures and unions
+# 🎗 STRUCTURES AND UNIONS 
+
+###### file handling
+# 🎗 FILE HANDLING 
+
+###### preprocessor and macros
+# 🎗 PREPROCESSOR AND MACROS 
+
+###### string handling
+# 🎗 STRING HANDLING 
+
+###### standard libraries
+# 🎗 STANDARD LIBRARIES 
+
+###### advanced concepts
+# 🎗 ADVANCED CONCEPTS
+
+###### competitive Programming DSA Readiness
+# 🎗 COMPETITIVE PROGRAMMING 
+
+###### basic maths codes
+# 🎗 BASIC MATHS CODES 
 
 
 
