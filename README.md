@@ -2,7 +2,7 @@
 
 ### Index 
 
-* [History of C](#history-of-c)
+* [History of PYTHON](#history-of-PYTHON)
 * [Features of C](#features-of-c)
 * [Basics](#basics)
 * [Header Files](#header-files)
@@ -23,7 +23,7 @@
 
 ---
 
-###### history of c
+###### history of PYTHON
 # 🎗 HISTORY
 Python is one of the most popular, high-level, general-purpose programming languages. It was created with a focus on code readability and allows developers to write concepts in fewer lines compared to C++ or Java.
 
