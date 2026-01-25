@@ -24,7 +24,7 @@
 ---
 
 ###### history of c
-## 🎗 HISTORY
+# 🎗 HISTORY
 Python is one of the most popular, high-level, general-purpose programming languages. It was created with a focus on code readability and allows developers to write concepts in fewer lines compared to C++ or Java.
 
 * Who Invented Python? <br>
