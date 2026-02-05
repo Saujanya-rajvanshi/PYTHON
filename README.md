@@ -125,7 +125,8 @@ Latest Version: Python 3.12.1 (as of now) <br>
 * [output & input](#output--input)
 
 
-## character set
+###### character set
+## 🧩 character set
 
 ✅ **NO major difference (conceptually)**
 
@@ -136,19 +137,16 @@ Latest Version: Python 3.12.1 (as of now) <br>
 
 📌 Python is **Unicode-based**, supports emojis & international characters.
 
----
-
-## Tokens
+###### tokens
+## 🧩 tokens
 
 Tokens are the **smallest units** of a Python program.
-
 * **Keywords**
 * **Identifiers**
 * **Literals**
 * **Operators**
 * **Delimiters**
 
----
 
 ### 💎 KEYWORDS
 
@@ -173,8 +171,6 @@ Tokens are the **smallest units** of a Python program.
 
 📌 **Python ≈ 35 keywords**
 
----
-
 ### 💎 IDENTIFIER
 
 ✅ **Almost same rules**
@@ -184,8 +180,6 @@ Tokens are the **smallest units** of a Python program.
 * Case-sensitive
 
 ❌ Python identifiers **cannot use special symbols** except `_`
-
----
 
 ### 💎 LITERALS
 
@@ -201,8 +195,6 @@ Tokens are the **smallest units** of a Python program.
 
 * `nullptr`
 * Binary literal syntax differs
-
----
 
 ### 💎 STRING
 
@@ -222,7 +214,6 @@ s = "Hello"
 
 * Functions: `len()`, `upper()`, `lower()`, `replace()`
 
----
 
 ### 💎 BOOLEAN
 
@@ -235,7 +226,6 @@ s = "Hello"
 * `bool`
 * `True`, `False`
 
----
 
 ### 💎 NULL / NONE
 
@@ -251,8 +241,6 @@ s = "Hello"
 x = None
 ```
 
----
-
 ### 💎 OPERATORS
 
 ❌ C++ only
@@ -265,7 +253,6 @@ x = None
 * Special operators: `is`, `in`
 * Supports operator overloading via magic methods
 
----
 
 ### 💎 DELIMITERS
 
@@ -275,7 +262,6 @@ x = None
 
 ❌ No `;` required
 
----
 
 ## Barebones of Program
 
@@ -296,7 +282,6 @@ print("Hello")
 
 📌 Execution is **top to bottom**
 
----
 
 ## Data Types Overview
 
@@ -309,7 +294,6 @@ print("Hello")
 * **Dynamically typed**
 * Type decided at runtime
 
----
 
 ## Variables & Constants
 
@@ -330,7 +314,6 @@ x = 10
 * No declaration
 * No data type required
 
----
 
 ### Constants
 
@@ -344,7 +327,6 @@ PI = 3.14
 
 📌 Constants are enforced by **developer discipline**
 
----
 
 ## Type Modifiers
 
@@ -355,7 +337,6 @@ PI = 3.14
 
 ✅ Python integers are **unlimited precision**
 
----
 
 ## Type Conversion / Type Casting
 
@@ -373,7 +354,6 @@ x = int(3.5)
 
 * `int()`, `float()`, `str()`, `bool()`
 
----
 
 ## sizeof equivalent
 
@@ -389,8 +369,6 @@ sizeof(int)
 import sys
 sys.getsizeof(x)
 ```
-
----
 
 ## Comments
 
@@ -410,7 +388,6 @@ multi-line comment
 """
 ```
 
----
 
 ## data handling basics
 
@@ -425,7 +402,6 @@ multi-line comment
 * Garbage collection
 * No pointers (reference-based)
 
----
 
 ## boiler plate code
 
@@ -438,7 +414,6 @@ multi-line comment
 * No boilerplate
 * Just write code
 
----
 
 ## next line
 
@@ -454,8 +429,6 @@ cout << endl;
 print()
 ```
 
----
-
 ## Escape Sequences
 
 ✅ **Same**
@@ -465,7 +438,6 @@ print()
 * `\\` → backslash
 * `\"` → double quote
 
----
 
 ## output & input
 
@@ -482,9 +454,6 @@ cout << x;
 x = input()
 print(x)
 ```
-
----
-
 
 
 ###### header files
