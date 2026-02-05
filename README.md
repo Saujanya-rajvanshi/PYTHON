@@ -125,8 +125,7 @@ Latest Version: Python 3.12.1 (as of now) <br>
 * [output & input](#output--input)
 
 
-###### character set
-## 🧩 character set
+## character set
 
 ✅ **NO major difference (conceptually)**
 
@@ -137,8 +136,7 @@ Latest Version: Python 3.12.1 (as of now) <br>
 
 📌 Python is **Unicode-based**, supports emojis & international characters.
 
-###### tokens
-## 🧩 tokens
+## tokens
 
 Tokens are the **smallest units** of a Python program.
 * **Keywords**
