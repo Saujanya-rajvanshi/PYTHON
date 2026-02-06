@@ -809,9 +809,9 @@ def add(a: int, b: int) -> int:
 
 
 ###### flow of control
-# 🎗 FLOW OF CONTROL
+# 🎗 FLOW OF CONTROL (PYTHON)
 
-### 🔹 Blocks & Scope
+### Blocks & Scope
 
 * ❌ No `{ }`
 * Uses **indentation**
@@ -823,9 +823,8 @@ if x > 0:
 
 📌 Indentation is **mandatory**
 
----
 
-### 🔹 Decision Statements
+### Decision Statements
 
 * `if`, `elif`, `else`
 * No `switch` (before Python 3.10)
@@ -839,9 +838,8 @@ else:
     pass
 ```
 
----
 
-### 🔹 Loops
+### Loops
 
 * `for` is **iterator-based**
 * No traditional C-style for loop
@@ -851,24 +849,21 @@ for i in range(5):
     print(i)
 ```
 
----
 
 ### ❌ do–while loop
 
 * ❌ Not available
 
----
 
-### 🔹 Jump Statements
+### Jump Statements
 
 * `break`
 * `continue`
 * `return`
 * ❌ `goto` not supported
 
----
 
-### 🔹 Ternary Operator
+### Ternary Operator
 
 Different syntax:
 
@@ -876,29 +871,14 @@ Different syntax:
 max = a if a > b else b
 ```
 
----
 
-### 🔹 Infinite Loop
+### Infinite Loop
 
 ```python
 while True:
     pass
 ```
 
----
-
-# 🔥 Quick Comparison Snapshot
-
-| Feature      | Python      | C++           |
-| ------------ | ----------- | ------------- |
-| Header files | ❌           | ✅             |
-| Compilation  | Interpreted | Compiled      |
-| Typing       | Dynamic     | Static        |
-| Pointers     | ❌           | ✅             |
-| Braces `{}`  | ❌           | ✅             |
-| Indentation  | Mandatory   | Optional      |
-| switch       | ❌ / limited | ✅             |
-| Memory mgmt  | Automatic   | Manual / RAII |
 
 
 
@@ -1176,28 +1156,6 @@ squares = [x*x for x in range(5)]
 
 
 
-## 🎗 String Manipulation — Python vs C++
-
-### ✅ MUCH EASIER IN PYTHON
-
-| Feature            | Python |
-| ------------------ | ------ |
-| Mutable            | ❌      |
-| Built-in functions | ✅      |
-| No char arrays     | ✅      |
-
-```python
-s = "Hello"
-print(s.upper())
-```
-
-📌 **Exam Line:**
-
-> Python strings are **immutable** and rich in built-in methods.
-
----
-
-
 
 
 
@@ -1254,10 +1212,9 @@ print(s.upper())
 
 
 
----
 
-###### string handling
-# 🎗 STRING HANDLING 
+###### string manipulation
+# 🎗 STRING MANIPULATION 
 
 ## 1️⃣ What is a String?
 
