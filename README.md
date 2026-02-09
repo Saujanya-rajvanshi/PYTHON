@@ -57,7 +57,7 @@ Python 3.x → Current standard, actively developed <br>
 Latest Version: Python 3.12.1 (as of now) <br>
 
 ###### features of python
-# 🎗 FEATURES OF PYTHON
+# 🎗 FEATURES
 
 1. **Free & Open Source**
    Python is free to use and its source code is publicly available.
