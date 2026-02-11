@@ -180,14 +180,21 @@ print("नमस्ते")
 ## tokens
 
 Tokens are the **smallest units** of a Python program.
-* **Keywords**
-* **Identifiers**
-* **Literals**
-* **Operators**
-* **Delimiters**
+
+* **Keywords:** -> less than c++
+* - [tokens - keywords](#keywords)
+* **Identifiers:** -> same as c++
+* - [tokens - identifier](#identifier)
+* **Constants (literals):** -> 0 , 1 and null
+* - [tokens - literals](#literals)
+* **Operators:** -> same as c++
+* - [tokens - operator](#operator)
+*  **Separators (punctuators):** -> same as c++
+*  - [tokens - panctuator](#panctuator)
 
 
-### 💎 KEYWORDS
+
+### keywords
 
 ❌ **NOT in Python (C++ only)**
 
@@ -210,11 +217,11 @@ Tokens are the **smallest units** of a Python program.
 
 📌 **Python ≈ 35 keywords**
 
-### 💎 IDENTIFIER
+### identifier
 
 ✅ NO difference Rules are exactly same in C and C++.
 
-### 💎 LITERALS
+### literals
 
 ✅ Python
 
@@ -229,7 +236,7 @@ Tokens are the **smallest units** of a Python program.
 * `nullptr`
 * Binary literal syntax differs
 
-### 💎 STRING
+### string
 
 ❌ C++
 
@@ -248,7 +255,7 @@ s = "Hello"
 * Functions: `len()`, `upper()`, `lower()`, `replace()`
 
 
-### 💎 BOOLEAN
+### boolean
 
 ❌ C++
 
@@ -260,7 +267,7 @@ s = "Hello"
 * `True`, `False`
 
 
-### 💎 NULL / NONE
+### null
 
 ❌ C++
 
@@ -274,7 +281,7 @@ s = "Hello"
 x = None
 ```
 
-### 💎 OPERATORS
+## operator
 
 ❌ C++ only
 
@@ -287,7 +294,7 @@ x = None
 * Supports operator overloading via magic methods
 
 
-### 💎 DELIMITERS
+### DELIMITERS
 
 ✅ Python
 
