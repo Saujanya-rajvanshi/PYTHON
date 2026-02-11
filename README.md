@@ -294,13 +294,23 @@ x = None
 * Supports operator overloading via magic methods
 
 
-### DELIMITERS
+### panctuator
+
+**Delimiters** are symbols that: Separate parts of code, Mark boundaries Define blocks or lists <br>
+They “delimit” (separate or enclose)
+
+In Python, the term “punctuators” is not commonly used. ; Instead, we usually call them delimiters or separators.
+
+Examples:
+`;   ,   ( )   { }   [ ]`
+
+Punctuators are a broader category of symbols used to structure code. : Delimiters, Member access symbols, Scope resolution, Preprocessor symbols
+
 
 ✅ Python
 
-* `()  []  {}  ,  :  .`
-
-❌ No `;` required
+* `( )  [ ]  ,  :  .  ...`
+No ;, no {}, no ->, no # for preprocessor (uses indentation & :)
 
 
 ## Barebones of Program
