@@ -212,13 +212,7 @@ Tokens are the **smallest units** of a Python program.
 
 ### 💎 IDENTIFIER
 
-✅ **Almost same rules**
-
-* Starts with letter or `_`
-* Cannot start with digit
-* Case-sensitive
-
-❌ Python identifiers **cannot use special symbols** except `_`
+✅ NO difference Rules are exactly same in C and C++.
 
 ### 💎 LITERALS
 
