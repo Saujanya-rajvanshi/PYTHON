@@ -138,6 +138,45 @@ Latest Version: Python 3.12.1 (as of now) <br>
 
 📌 Python is **Unicode-based**, supports emojis & international characters.
 
+### What is Unicode?
+
+Unicode is a **universal character encoding system**.
+
+It includes:
+
+* English letters → A, B, C
+* Hindi → नमस्ते
+* Korean → 안녕하세요
+* Emojis → 😊🔥💜
+* Symbols → ₹ © ™
+
+Each character has a **unique code point**.
+
+Example:
+
+* `A` → U+0041
+* `😊` → U+1F60A
+* `안` → U+C548
+
+---
+
+#### In Python : Python 3 uses **Unicode by default** for strings.
+
+Example:
+
+```python
+name = "Saujanya 💜"
+print(name)
+```
+
+Works perfectly ✅
+
+```python
+print("안녕하세요")
+print("नमस्ते")
+```
+
+
 ## tokens
 
 Tokens are the **smallest units** of a Python program.
