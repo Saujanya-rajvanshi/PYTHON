@@ -511,6 +511,11 @@ print(x)
 ###### header files
 # 🎗 HEADER FILES
 
+### boiler plate 
+```py
+print("hello world")
+```
+
 ### ❌ Header Files
 
 * Python has **NO header files**
